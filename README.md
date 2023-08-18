@@ -3,7 +3,10 @@
 # APTACTOR
 APTACTOR is an APT actor tool based on LOLBAS Project - Purpose of the tool is to make APT actor's malicious executions on the operating system look more legitimate to thwart detections as much as possible 
 
-
+# APTACTOR features
+1. Runonce in INF file  
+2. Scriptlet in INF
+3. Native WinOS Binaries 
 
 ## Maintainers
 
